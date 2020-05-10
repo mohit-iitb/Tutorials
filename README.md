@@ -1,4 +1,5 @@
 # Tutorials
+###### curated list of references
 
 ## Git & Github
 - https://guides.github.com/activities/hello-world/

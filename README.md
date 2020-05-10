@@ -3,7 +3,7 @@
 ## Git & Github
 - https://guides.github.com/activities/hello-world/
 ## Latex
-- 
+- https://www.latex-tutorial.com/tutorials/
 ## Html,css,JavaScript
 - Make a website in 1 hour : https://www.youtube.com/watch?v=5bMdjkfvONE
 - Smooth page transitions with JavaScript Tutorial -->

@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=1dJT-99KpiI
 
 ## Github code syntax
 - Basic writing and formatting syntax : https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
+## How to build a web application using Flask and deploy it to the cloud
+- https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/

@@ -3,6 +3,7 @@
 
 ## Git & Github
 - https://guides.github.com/activities/hello-world/
+- https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
 ## Latex
 - https://www.latex-tutorial.com/tutorials/
 ## Html,css,JavaScript

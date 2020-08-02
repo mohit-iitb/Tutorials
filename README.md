@@ -3,15 +3,16 @@
 
 ## Git & Github
 ### FIRST TIME <br>
-##### git init <br>
-##### git add remote origin "link" <br>
-##### git add . <br>
-##### git commit -m "message" <br>
-##### git push origin master <br>
+- git init <br>
+- git add remote origin "link" <br>
+- git add . <br>
+- git commit -m "message" <br>
+- git push origin master <br>
 ### To Update <br>
-##### git add . <br>
-##### git commit -m "message" <br>
-##### git push orign master <br>
+- git add . <br>
+- git commit -m "message" <br>
+- git push orign master <br>
+### references
 - https://guides.github.com/activities/hello-world/
 - https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
 ## Latex

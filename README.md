@@ -17,6 +17,11 @@
 - https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
 ## Latex
 - https://www.latex-tutorial.com/tutorials/
+- https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
+- https://www.overleaf.com/learn/latex/subscripts_and_superscripts
+- http://www.malinc.se/math/latex/basiccodeen.php
+- https://www.math-linux.com/latex-26/faq/latex-faq/article/latex-arrows
+- https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics#Boxed_Equations
 ## Html,css,JavaScript
 - Make a website in 1 hour : https://www.youtube.com/watch?v=5bMdjkfvONE
 - Smooth page transitions with JavaScript Tutorial -->

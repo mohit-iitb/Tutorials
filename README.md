@@ -4,7 +4,7 @@
 ## Git & Github
 ### FIRST TIME <br>
 - git init <br>
-- git add remote origin "link" <br>
+- git remote add origin "link" <br>
 - git add . <br>
 - git commit -m "message" <br>
 - git push origin master <br>
